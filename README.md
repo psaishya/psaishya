@@ -26,7 +26,9 @@ Fields of interest: Web development, data analytics, and machine learning.
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
- 
+
+<br/>
+
 ### Tech Stack<br/>
 <div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -57,8 +59,7 @@ Fields of interest: Web development, data analytics, and machine learning.
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-  
-
+<br/>
 
 ### Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=psaishya&show_icons=true&count_private=true&hide_border=true" align="left" />  
