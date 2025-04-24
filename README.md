@@ -61,5 +61,4 @@ Fields of interest: Web development, data analytics, and machine learning.
 
 <br/>
 
-### Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=psaishya&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
