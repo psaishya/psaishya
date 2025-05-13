@@ -1,7 +1,7 @@
 ## Hi! I am Sadikshya Pokharel 👋
 
 ### About me <br/>
-<a href"https://sadikshyapokharel.netlify.app/">My Portfolio Website </a>
+<a href="https://sadikshyapokharel.netlify.app/">My Portfolio Website </a>
 👩‍🎓 A Computer Engineering student at [Kathmandu University](https://ku.edu.np/)<br/>
 🏫 An exchange student at IIT Hyderabad.<br/>
 Fields of interest: Web development, data analytics, and machine learning.
